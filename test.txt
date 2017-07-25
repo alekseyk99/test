@@ -1,18 +1,3 @@
 test1
-test15
-test19
-test2
-test25
-test3
-test35
-test4
-<<<<<<< HEAD
-test5
-=======
-test45
-test46
-test47
-test48
 test6
->>>>>>> 7e66187057c83771262739c8b7c8eb479d7849dc
 
